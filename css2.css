@@ -1,0 +1,28 @@
+header {
+    background-color: blue;
+    height: 120px;
+    margin: 0%;
+    margin: 40px;
+}
+
+header h1{
+    text-align: center;
+    color: rgb(0, 37, 70);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    font-size: 40px;
+    padding-top: 20px;
+    margin-left: -100px;
+}
+
+main {
+    background-color: rgb(142, 179, 232);
+    margin: 40px ;
+}
+
+footer {
+    background-color: blue;
+}
+body {
+    background-color: rgb(95, 142, 184);
+}
